@@ -1,4 +1,4 @@
-Bank Programme 
+
 A simple console-based banking application written in C#.
 
 Features
